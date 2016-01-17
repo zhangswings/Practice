@@ -34,8 +34,6 @@ TextView mTextView;
             }
         });
 
-//        zhangswings
-
 
     }
 
